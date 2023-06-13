@@ -29,7 +29,7 @@ Please make sure that you have installed [Node.js](https://nodejs.org/en/downloa
 
 Download and extract the module or clone/pull it using [Git](https://git-scm.com/downloads):
 ```bash
-git clone https://github.com/LongAKolangle/discord-owo-selfbot.git
+git clone https://github.com/kiwinionana/owo-selfbot-main.git
 ```
 
 Now [open the terminal inside folder](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/) where you downloaded the selfbot and run the following command
@@ -190,21 +190,9 @@ __Facebook:__ Coming soon
 
 __Email:__ ntt.eternity2k6@gmail.com
 
-__Discord (semi-support):__ [Join now](https://discord.gg/frdNVtXUdN)
+__Discord (semi-support):allah var gam yok#1663
 
-__Join our discord server:__ [Join now](https://discord.gg/Yr92g5Zx3e)
-
-    Hello there, my name is Eternityy, and I wanted to take a moment to thank you for using our tool.
-
-    Since 2021, this project has been non-profit. But we're still committed to making it the best it can be, 
-    
-    With APIs like captcha-solving and quoting,... to help make your experience better and more efficient.
-
-    Unfortunately, funding has become an obstacle to our progress. Would you be willing to help us out with a small donation? 
-    
-    Even the price of a coffee cup can go a long way towards keeping us going. Every little bit helps, means the world to us.
-
-    Thank you for your time and consideration, and we hope you continue to enjoy our tool!
+__Join our discord server:__ [Join now](https://discord.gg/VDUbPYBp)
 
 #### MB Bank Vietnam / Momo / ZaloPay: __NGUYEN THANH LONG__ __0978176370__
 
@@ -218,13 +206,15 @@ iamz4ri
 
 keepmeside
 
+allah var gam yok
+
 ## License
 
 ✨ Licensed under the MIT license.
 
-⛱️ Copyright © EternityVN x aiko-chan-ai 2022
+⛱️ Copyright © EternityVN x aiko-chan-ai x allah var gam yok 2022
 
-💖 Made by Vietnamese with love
+💖 Made by Vietnamese and Turkish with love
 
 💫 We are BKI members (Baka Island - 💪Đảo Ngố Tàu) 
 
