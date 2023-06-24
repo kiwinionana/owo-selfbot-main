@@ -1,4 +1,4 @@
-process.title = "Tool Farm OwO by Eternity_VN - aiko-chan-ai"
+process.title = "DADDDY İM CUMMİNG"
 
 //import libraries
 
