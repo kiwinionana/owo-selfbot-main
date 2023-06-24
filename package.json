@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LongAKolangle/discord-owo-selfbot.git"
+    "url": "git+https://github.com/kiwinionana/owo-selfbot-main.git"
   },
   "keywords": [
     "discord",
@@ -27,9 +27,9 @@
   "author": "Eternity",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LongAKolangle/discord-owo-selfbot/issues"
+    "url": "https://github.com/kiwinionana/owo-selfbot-main"
   },
-  "homepage": "https://github.com/LongAKolangle/discord-owo-selfbot#readme",
+  "homepage": "https://github.com/kiwinionana/owo-selfbot-main",
   "dependencies": {
     "2captcha": "^3.0.6",
     "adm-zip": "^0.5.10",
