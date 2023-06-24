@@ -1,4 +1,4 @@
-process.title = "Botu Satin Aldiginiz İcin Teşekkürler"
+process.title = "Botumu Aldiginiz İcin Teşekkürler"
 
 //import libraries
 
